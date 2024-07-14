@@ -10,6 +10,7 @@ DOMAIN-SUFFIX, youtube.com, HK
 DOMAIN-SUFFIX, google.com, USA
 DOMAIN-SUFFIX, gstatic.com, USA
 # 国内网站
+DOMAIN-SUFFIX, moonshot.cn, Direct
 DOMAIN-SUFFIX, aliyundrive.com, Direct
 HOST-KEYWORD, aliyundrive, Direct
 DOMAIN-SUFFIX, bilibili.com, Direct
